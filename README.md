@@ -4,3 +4,5 @@ This repository contains the solution for the lab problem of AI-367." The goal o
 
 HOW TO RUN:
 
+https://github.com/RamcharanSinghRamavath/CS367-AI-LAB-CODES
+
